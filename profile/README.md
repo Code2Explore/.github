@@ -1,7 +1,9 @@
 <h1>Welcome to Code Explore – your trusted partner in providing innovative and up-to-date programming resources and solutions.</h1> 
 
 
-[![Youtube Channel](https://img.shields.io/badge/CodeExplore-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/thecodeexplore)](https://www.youtube.com/@thecodeexplore)
+![Youtube Channel](https://img.shields.io/badge/CodeExplore-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/thecodeexplore)  ![Static Badge](https://img.shields.io/badge/Instagram-Follow-E4405F?link=https%3A%2F%2Fwww.instagram.com%2Fthe_codeexplore)![Twitter Follow](https://img.shields.io/twitter/follow/thecodeexplore?style=social)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Code2Explore" alt="Code2Explore" /> </p>
 
 

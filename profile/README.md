@@ -1,7 +1,11 @@
 <h1>Welcome to Code Explore – your trusted partner in providing innovative and up-to-date programming resources and solutions.</h1> 
 
+
 [![Youtube Channel](https://img.shields.io/badge/CodeExplore-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/thecodeexplore)](https://www.youtube.com/@thecodeexplore)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="MarikIshtar007" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Code2Explore" alt="Code2Explore" /> </p>
+
+
+Code Explore is a dynamic resource for programming enthusiasts, offering news, tutorials, guides, projects, and videos. Launched on World Programmer's Day 2023, our mission is to provide the best and latest educational content. With a focus on quality, innovation, and growth, we aim to be a trusted hub for the programming community.
 
 ## :computer: Technologies We Love
 * AI
